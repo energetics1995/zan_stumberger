@@ -1,1 +1,2 @@
 1.) status vseh datotek je bil "unknown"
+2.) status vseh datotek je bil "modified"
